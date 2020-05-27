@@ -3,3 +3,6 @@ Un foro open source hecho con ❤️ por Aisar Gatrif. Diseñado por Fernando Po
 
 ## Tecnologias
 React en el frontend y NodeJS en el backend.
+
+## Licencia
+Este software se rige bajo la licencia GNU GPLv3.
