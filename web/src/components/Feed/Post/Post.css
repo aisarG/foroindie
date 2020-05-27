@@ -1,0 +1,38 @@
+.post {
+  width: 100%;
+  position: relative;
+  background-color: rgb(255, 219, 16);
+}
+
+.post h1 {
+  background-color: green;
+  font-size: 1.5rem;
+  width: 100%;
+  position: relative;
+  word-break: break-word;
+}
+
+.post-misc {
+  display: flex;
+  width: 60%;
+}
+
+.post-meta {
+  flex: 1;
+  font-size: 0.719rem;
+  color: #ffffff;
+}
+
+.post-actions {
+  flex: 1;
+  font-size: 0.719rem;
+}
+
+/* .post-image {
+  height: 15rem;
+  width: 100%;
+} */
+
+
+
+

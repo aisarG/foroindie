@@ -1,0 +1,25 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 2.2em;
+  /* background-color: green; */
+  width: 50%;
+  margin: auto;
+  justify-content: center;
+}
+
+.posts {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: rgb(255, 0, 0);
+}
+
+.categories {
+  background-color: blue;
+}
+
+
+/* .feed__control {
+  text-align: left;
+} */
